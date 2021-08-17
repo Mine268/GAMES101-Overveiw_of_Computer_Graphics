@@ -1,0 +1,7 @@
+*.pdf
+*.exe
+*.dll
+!CMakeLists.txt
+pa0/.vscode/*
+Assignment?/code_framework/build/*
+Assignment?/code_framework/.vscode/*
