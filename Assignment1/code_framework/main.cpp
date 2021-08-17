@@ -70,7 +70,7 @@ Eigen::Matrix4f get_projection_matrix(float eye_fov, float aspect_ratio,
 	// Then return it.
 
 	projection << zNear, 0, 0, 0, 0, zNear, 0, 0, 0, 0, zNear + zFar,
-		-zNear * zFar, 0, 0, -1, 0;
+		zNear * zFar, 0, 0, -1, 0;
 	orthographics1 << 2. / (r - l), 0, 0, 0, 0, 2. / (t - b), 0, 0, 0, 0,
 		2. / (n - f), 0, 0, 0, 0, 1;
 	orthographics2 << 1., 0, 0, (l + r) / 2., 0, 1., 0, (t + b) / 2., 0, 0, 1., (n + f) / 2., 0, 0,
