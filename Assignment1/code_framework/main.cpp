@@ -126,7 +126,7 @@ int main(int argc, const char** argv) {
 	while (key != 27) {
 		r.clear(rst::Buffers::Color | rst::Buffers::Depth);
 
-		r.set_model(get_model_matrix(angle));
+		r.set_model(get_model_matrix(Eigen::Vector4f(1, 1, 1, 0), angle));
 		r.set_view(get_view_matrix(eye_pos));
 		r.set_projection(get_projection_matrix(MY_PI / 2, 1, 0.1, 50));
 

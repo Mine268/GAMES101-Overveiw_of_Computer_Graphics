@@ -12,6 +12,5 @@ set(CMAKE_INSTALL_PREFIX E:/study/0-Computer_Graphics/homework/Assignment1/code_
 
 include_directories(E:/support/Eigen/eigen-3.4-rc1-build/include E:/support/OpenCV/opencv-4.5.3-build/include)
 
-
 add_executable(Rasterizer main.cpp rasterizer.hpp rasterizer.cpp global.hpp Triangle.hpp Triangle.cpp)
 target_link_libraries(Rasterizer ${OpenCV_LIBRARIES})
