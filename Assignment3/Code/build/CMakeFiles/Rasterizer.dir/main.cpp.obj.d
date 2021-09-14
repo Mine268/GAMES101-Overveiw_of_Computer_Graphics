@@ -1,5 +1,5 @@
 CMakeFiles/Rasterizer.dir/main.cpp.obj: \
- E:\study\0-Computer_Graphics\homework\Assignment3\Code\main.cpp \
+ E:\study\out_courses\0-Computer_Graphics\homework\Assignment3\Code\main.cpp \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -346,8 +346,8 @@ CMakeFiles/Rasterizer.dir/main.cpp.obj: \
  E:/support/OpenCV/opencv-4.5.3-build/include/opencv2/video.hpp \
  E:/support/OpenCV/opencv-4.5.3-build/include/opencv2/video/tracking.hpp \
  E:/support/OpenCV/opencv-4.5.3-build/include/opencv2/video/background_segm.hpp \
- E:\study\0-Computer_Graphics\homework\Assignment3\Code\global.hpp \
- E:\study\0-Computer_Graphics\homework\Assignment3\Code\rasterizer.hpp \
+ E:\study\out_courses\0-Computer_Graphics\homework\Assignment3\Code\global.hpp \
+ E:\study\out_courses\0-Computer_Graphics\homework\Assignment3\Code\rasterizer.hpp \
  E:/support/Eigen/eigen-3.4-rc1-build/include/eigen3/Eigen/Eigen \
  E:/support/Eigen/eigen-3.4-rc1-build/include/eigen3/Eigen/Dense \
  E:/support/Eigen/eigen-3.4-rc1-build/include/eigen3/Eigen/Core \
@@ -615,10 +615,10 @@ CMakeFiles/Rasterizer.dir/main.cpp.obj: \
  E:/support/Eigen/eigen-3.4-rc1-build/include/eigen3/Eigen/src/IterativeLinearSolvers/BiCGSTAB.h \
  E:/support/Eigen/eigen-3.4-rc1-build/include/eigen3/Eigen/src/IterativeLinearSolvers/IncompleteLUT.h \
  E:/support/Eigen/eigen-3.4-rc1-build/include/eigen3/Eigen/src/IterativeLinearSolvers/IncompleteCholesky.h \
- E:\study\0-Computer_Graphics\homework\Assignment3\Code\Shader.hpp \
- E:\study\0-Computer_Graphics\homework\Assignment3\Code\Texture.hpp \
- E:\study\0-Computer_Graphics\homework\Assignment3\Code\Triangle.hpp \
- E:\study\0-Computer_Graphics\homework\Assignment3\Code\OBJ_Loader.h \
+ E:\study\out_courses\0-Computer_Graphics\homework\Assignment3\Code\Shader.hpp \
+ E:\study\out_courses\0-Computer_Graphics\homework\Assignment3\Code\Texture.hpp \
+ E:\study\out_courses\0-Computer_Graphics\homework\Assignment3\Code\Triangle.hpp \
+ E:\study\out_courses\0-Computer_Graphics\homework\Assignment3\Code\OBJ_Loader.h \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/fstream \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/basic_file.h \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++io.h \

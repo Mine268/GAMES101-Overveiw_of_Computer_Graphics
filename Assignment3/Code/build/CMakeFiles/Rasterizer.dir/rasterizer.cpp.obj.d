@@ -1,5 +1,5 @@
 CMakeFiles/Rasterizer.dir/rasterizer.cpp.obj: \
- E:\study\0-Computer_Graphics\homework\Assignment3\Code\rasterizer.cpp \
+ E:\study\out_courses\0-Computer_Graphics\homework\Assignment3\Code\rasterizer.cpp \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/algorithm \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/utility \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
@@ -60,7 +60,7 @@ CMakeFiles/Rasterizer.dir/rasterizer.cpp.obj: \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/memoryfwd.h \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/uniform_int_dist.h \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/limits \
- E:\study\0-Computer_Graphics\homework\Assignment3\Code\rasterizer.hpp \
+ E:\study\out_courses\0-Computer_Graphics\homework\Assignment3\Code\rasterizer.hpp \
  E:/support/Eigen/eigen-3.4-rc1-build/include/eigen3/Eigen/Eigen \
  E:/support/Eigen/eigen-3.4-rc1-build/include/eigen3/Eigen/Dense \
  E:/support/Eigen/eigen-3.4-rc1-build/include/eigen3/Eigen/Core \
@@ -464,9 +464,9 @@ CMakeFiles/Rasterizer.dir/rasterizer.cpp.obj: \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_list.h \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/allocated_ptr.h \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/list.tcc \
- E:\study\0-Computer_Graphics\homework\Assignment3\Code\global.hpp \
- E:\study\0-Computer_Graphics\homework\Assignment3\Code\Shader.hpp \
- E:\study\0-Computer_Graphics\homework\Assignment3\Code\Texture.hpp \
+ E:\study\out_courses\0-Computer_Graphics\homework\Assignment3\Code\global.hpp \
+ E:\study\out_courses\0-Computer_Graphics\homework\Assignment3\Code\Shader.hpp \
+ E:\study\out_courses\0-Computer_Graphics\homework\Assignment3\Code\Texture.hpp \
  E:/support/OpenCV/opencv-4.5.3-build/include/opencv2/opencv.hpp \
  E:/support/OpenCV/opencv-4.5.3-build/include/opencv2/opencv_modules.hpp \
  E:/support/OpenCV/opencv-4.5.3-build/include/opencv2/core.hpp \
@@ -617,4 +617,4 @@ CMakeFiles/Rasterizer.dir/rasterizer.cpp.obj: \
  E:/support/OpenCV/opencv-4.5.3-build/include/opencv2/video.hpp \
  E:/support/OpenCV/opencv-4.5.3-build/include/opencv2/video/tracking.hpp \
  E:/support/OpenCV/opencv-4.5.3-build/include/opencv2/video/background_segm.hpp \
- E:\study\0-Computer_Graphics\homework\Assignment3\Code\Triangle.hpp
+ E:\study\out_courses\0-Computer_Graphics\homework\Assignment3\Code\Triangle.hpp

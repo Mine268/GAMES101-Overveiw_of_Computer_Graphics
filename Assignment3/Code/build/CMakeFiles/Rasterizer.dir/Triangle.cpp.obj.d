@@ -1,6 +1,6 @@
 CMakeFiles/Rasterizer.dir/Triangle.cpp.obj: \
- E:\study\0-Computer_Graphics\homework\Assignment3\Code\Triangle.cpp \
- E:\study\0-Computer_Graphics\homework\Assignment3\Code\Triangle.hpp \
+ E:\study\out_courses\0-Computer_Graphics\homework\Assignment3\Code\Triangle.cpp \
+ E:\study\out_courses\0-Computer_Graphics\homework\Assignment3\Code\Triangle.hpp \
  E:/support/Eigen/eigen-3.4-rc1-build/include/eigen3/Eigen/Eigen \
  E:/support/Eigen/eigen-3.4-rc1-build/include/eigen3/Eigen/Dense \
  E:/support/Eigen/eigen-3.4-rc1-build/include/eigen3/Eigen/Core \
@@ -464,8 +464,8 @@ CMakeFiles/Rasterizer.dir/Triangle.cpp.obj: \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_list.h \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/allocated_ptr.h \
  E:/support/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/list.tcc \
- E:\study\0-Computer_Graphics\homework\Assignment3\Code\Texture.hpp \
- E:\study\0-Computer_Graphics\homework\Assignment3\Code\global.hpp \
+ E:\study\out_courses\0-Computer_Graphics\homework\Assignment3\Code\Texture.hpp \
+ E:\study\out_courses\0-Computer_Graphics\homework\Assignment3\Code\global.hpp \
  E:/support/OpenCV/opencv-4.5.3-build/include/opencv2/opencv.hpp \
  E:/support/OpenCV/opencv-4.5.3-build/include/opencv2/opencv_modules.hpp \
  E:/support/OpenCV/opencv-4.5.3-build/include/opencv2/core.hpp \
