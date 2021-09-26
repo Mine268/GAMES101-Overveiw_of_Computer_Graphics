@@ -1,22 +1,22 @@
 [
 {
-  "directory": "E:/study/0-Computer_Graphics/homework/Assignment3/Code/build",
-  "command": "E:\\support\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\main.cpp.obj -c E:\\study\\0-Computer_Graphics\\homework\\Assignment3\\Code\\main.cpp",
-  "file": "E:/study/0-Computer_Graphics/homework/Assignment3/Code/main.cpp"
+  "directory": "E:/study/out_courses/0-Computer_Graphics/homework/Assignment3/Code/build",
+  "command": "E:\\support\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\main.cpp.obj -c E:\\study\\out_courses\\0-Computer_Graphics\\homework\\Assignment3\\Code\\main.cpp",
+  "file": "E:/study/out_courses/0-Computer_Graphics/homework/Assignment3/Code/main.cpp"
 },
 {
-  "directory": "E:/study/0-Computer_Graphics/homework/Assignment3/Code/build",
-  "command": "E:\\support\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\rasterizer.cpp.obj -c E:\\study\\0-Computer_Graphics\\homework\\Assignment3\\Code\\rasterizer.cpp",
-  "file": "E:/study/0-Computer_Graphics/homework/Assignment3/Code/rasterizer.cpp"
+  "directory": "E:/study/out_courses/0-Computer_Graphics/homework/Assignment3/Code/build",
+  "command": "E:\\support\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\rasterizer.cpp.obj -c E:\\study\\out_courses\\0-Computer_Graphics\\homework\\Assignment3\\Code\\rasterizer.cpp",
+  "file": "E:/study/out_courses/0-Computer_Graphics/homework/Assignment3/Code/rasterizer.cpp"
 },
 {
-  "directory": "E:/study/0-Computer_Graphics/homework/Assignment3/Code/build",
-  "command": "E:\\support\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\Triangle.cpp.obj -c E:\\study\\0-Computer_Graphics\\homework\\Assignment3\\Code\\Triangle.cpp",
-  "file": "E:/study/0-Computer_Graphics/homework/Assignment3/Code/Triangle.cpp"
+  "directory": "E:/study/out_courses/0-Computer_Graphics/homework/Assignment3/Code/build",
+  "command": "E:\\support\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\Triangle.cpp.obj -c E:\\study\\out_courses\\0-Computer_Graphics\\homework\\Assignment3\\Code\\Triangle.cpp",
+  "file": "E:/study/out_courses/0-Computer_Graphics/homework/Assignment3/Code/Triangle.cpp"
 },
 {
-  "directory": "E:/study/0-Computer_Graphics/homework/Assignment3/Code/build",
-  "command": "E:\\support\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\Texture.cpp.obj -c E:\\study\\0-Computer_Graphics\\homework\\Assignment3\\Code\\Texture.cpp",
-  "file": "E:/study/0-Computer_Graphics/homework/Assignment3/Code/Texture.cpp"
+  "directory": "E:/study/out_courses/0-Computer_Graphics/homework/Assignment3/Code/build",
+  "command": "E:\\support\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\Texture.cpp.obj -c E:\\study\\out_courses\\0-Computer_Graphics\\homework\\Assignment3\\Code\\Texture.cpp",
+  "file": "E:/study/out_courses/0-Computer_Graphics/homework/Assignment3/Code/Texture.cpp"
 }
 ]

@@ -1,0 +1,3 @@
+E:/study/out_courses/0-Computer_Graphics/homework/Assignment4/code/build/CMakeFiles/BezierCurve.dir
+E:/study/out_courses/0-Computer_Graphics/homework/Assignment4/code/build/CMakeFiles/edit_cache.dir
+E:/study/out_courses/0-Computer_Graphics/homework/Assignment4/code/build/CMakeFiles/rebuild_cache.dir

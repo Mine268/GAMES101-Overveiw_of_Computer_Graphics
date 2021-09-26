@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/study/out_courses/0-Computer_Graphics/homework/Assignment4/code/build",
+  "command": "E:\\support\\mingw64\\bin\\g++.exe  @CMakeFiles/BezierCurve.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\BezierCurve.dir\\main.cpp.obj -c E:\\study\\out_courses\\0-Computer_Graphics\\homework\\Assignment4\\code\\main.cpp",
+  "file": "E:/study/out_courses/0-Computer_Graphics/homework/Assignment4/code/main.cpp"
+}
+]
